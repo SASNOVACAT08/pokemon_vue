@@ -1,4 +1,4 @@
-# pokemon_vue
+# pokemon_vue deployed
 
 ## Project setup
 ```
